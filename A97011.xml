@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine reasons why the Booke of Common-Prayer being corrected should continue. By I. W.</title>
+            <author>I. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97011</idno>
+            <idno type="STC">Wing W40</idno>
+            <idno type="STC">Thomason E176_15</idno>
+            <idno type="STC">ESTC R14936</idno>
+            <idno type="EEBO-CITATION">99859767</idno>
+            <idno type="PROQUEST">99859767</idno>
+            <idno type="VID">111864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111864)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E176[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine reasons why the Booke of Common-Prayer being corrected should continue. By I. W.</title>
+                  <author>I. W.</author>
+               </titleStmt>
+               <extent>[4], 14, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.N. for Richard Lownds, at his shop adjoyning to Ludgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous errors in pagination.</note>
+                  <note>With a final blank leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111864:1"/>
+            <pb facs="tcp:111864:1" rendition="simple:additions"/>
+            <p>CERTAINE REASONS WHY THE BOOKE OF COMMON-PRAYER BEING CORRECTED SHOVLD Continue.</p>
+            <p>
+               <hi>BY</hi> I.W.</p>
+            <p>LONDON, Printed by <hi>A.N</hi> for <hi>Richard Lownds,</hi> at his ſhop adjoyning to Ludgate. 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111864:2"/>
+            <pb facs="tcp:111864:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>CHRISTIAN READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Motives that have induced me to publiſh theſe common Reaſons (how mean ſoever you find them comming but from a common ſubject) hath procee<g ref="char:EOLhyphen"/>ded partly from my frequent obſerving an irreli<g ref="char:EOLhyphen"/>gious, illegall, and wilfull contempt of divers miſ<g ref="char:EOLhyphen"/>informed and miſguided people, in refuſing to come into our Church or Congregation on the Lords day, while any part of the Booke of Common Prayer was reading, though it were the ex<g ref="char:EOLhyphen"/>preſſe word of God contained therein, (a thing indeed, which hath juſtly given much cauſe of griefe and offence to many true hear<g ref="char:EOLhyphen"/>ted Subjects to the law of God, and of the Land, and may prove in the concluſion (with thoſe opinions and practices that are ac<g ref="char:EOLhyphen"/>companied with them) not only dangerous to the diſturbance of our happy peace, the ſubverſion of our Proteſtation, and our re<g ref="char:EOLhyphen"/>ligion, but alſo the loſſe of our lives and liberties, and all wee have) As alſo from the over-confident preſuming expreſſions of ſome others, that the Booke of Common prayer ſhould be utterly aboliſhed; which together with that ſincere affection that I formerly have declared, and ſtill beare unto them, and to the maintaining of the truth and peace of the Church and Com<g ref="char:EOLhyphen"/>mon-weale (though to my great reproach and prejudice) hath the rather preſſed me on hereunto. I am not ignorant what envy and uncharitable cenſures I have already endured, and must expect from thoſe obſtinate deſpiſers and depravers of them,
+<pb facs="tcp:111864:3"/>and of Authoritie, and of thoſe that conſcionablie affect and fre<g ref="char:EOLhyphen"/>quent them. But they may pleaſe to take notice, that it will be found not agreeable to that true religion which they ſo much profeſſe; for it will not endure a Tryall, either by the law of God or Man: yet I am the rather content that they are become my enemies for ſpeaking and juſtifying ſo neceſſarie a truth; nor is it any new thing with me to ſuffer for the maintenance of the Law and liberty of the Subject, God I truſt in his due time will cleare my ſynceritie therein.</p>
+            <p>Neither is it my caſe alone: for they ſpare none that comply not with their diſtemper'd humours, be they never ſo great or good. That true reformed Proteſtant Religion which I endevour to practiſe teacheth me otherwiſe, and to pray to God to forgive (them) my enemies, perſecutors, and ſlanderers, and to turne their hearts; and to bring into the way of truth all ſuch as have erred and are deceived. However I am reſolved to remaine a heartie lover of truth, and peace, and of uniformitie in the re<g ref="char:EOLhyphen"/>verentiall feare and ſervice of God, and will continue to pray that they to whom God hath committed the ſtewardſhip and diſpenſation of juſtice, and maintenance of our true religion and lawes (now after Tryall) may ſeaſonably ſettle, confirme, and unite us in them, our Proteſtation, and our due and decent wor<g ref="char:EOLhyphen"/>ſhip of God; leſt the irreconciliable and bloudy adverſaries of them and us take the advantage of the diſtractions to hinder our true, expected, and prayed for Reformation, and in ſtead thereof to bring us all into miſerable and remedileſſe confuſion.</p>
+            <closer>
+               <signed>I.W.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111864:3"/>
+            <head>SOME REASONS WHY The Booke of Common Prayer being corrected ſhould continue.</head>
+            <p>Firſt, <hi>becauſe it was compoſed and approved of by godly refor<g ref="char:EOLhyphen"/>med profeſſors and Martyrs, and reverently uſed and fre<g ref="char:EOLhyphen"/>quented by devout Protestants, in the times of religious Princes, the happy instruments and Propagators of the true reformed Religion.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">I</seg>T addes much to the due reſpect and e<g ref="char:EOLhyphen"/>ſteeme of them, that they have ſuch a re<g ref="char:EOLhyphen"/>verend forming and conſent of grave and orthodox Divines, Martyrs, and zealous Proteſtants; And why ſhould we not be<g ref="char:EOLhyphen"/>leeve, that the godly and religious Profeſſors of thoſe times (who had ſeene and felt the furie of the contrary religion, and beſt knew the inconveniences, and diffe<g ref="char:EOLhyphen"/>rences in matters belonging thereunto then chiefely in agitation) did ſeriouſly and faithfully endevour a ſyn<g ref="char:EOLhyphen"/>cere reformation? they were no wayes hindred in effe<g ref="char:EOLhyphen"/>cting their deſires, for they had the approbation of their Prince, and countenance of authoritie thereunto: why then ſhould we not conceive, that the Spirit of truth
+<pb n="2" facs="tcp:111864:4"/>did guide them? Certainly if they had knowne any bet<g ref="char:EOLhyphen"/>ter way for the due and decent ſervice and honour of God, they would have propounded it, and it would have beene aſwell eſtabliſhed. And queſtionleſſe if there had beene any ſuch errours in them as are ſuppo<g ref="char:EOLhyphen"/>ſed, and ſlandered on them, ſome of them would have made ſome recantation and acknowledgement thereof at their ſuffrings, and not have made uſe of them, and commended them to others at their departure out of the world.</p>
+            <p>Secondly, <hi>Becauſe they have beene at ſeverall times enacted and eſtabliſhed as Lawes of the Land, in the times of moſt Religious and reformed Princes.</hi>
+            </p>
+            <p>They were firſt enacted in the fift and ſixt yeare of King <hi>Edward</hi> the ſixt. They were repealed in the firſt yeare of Queene <hi>Mary</hi> her reigne, That repeale was made voide, and the act of <hi>Edw.</hi> 6. was re-eſtabliſhed, and confirmed in the firſt yeare of Queene <hi>Elizabeth</hi> her reigne. The due reſort unto them on Sundayes accord<g ref="char:EOLhyphen"/>ing to the aforeſaid act of Qu. <hi>Eliz.</hi> was revived 3. <hi>Iacobi.</hi> He then that makes oppoſition againſt ſuch wholſome and re-eſtabliſhed Lawes, enacted by the prudent, Reli<g ref="char:EOLhyphen"/>gious, and mature deliberation of ſeverall Parliaments, ought to have more then ordinary grounds, and bring ſubſtantiall and abſolutely neceſſarie Arguments for the repeale and aboliſhing of them: and ſeeing it is our hap<g ref="char:EOLhyphen"/>pineſſe
+<pb n="3" facs="tcp:111864:4"/>that we have them eſtabliſhed and confirmed by law, If we know our own good, wee ſhall endea<g ref="char:EOLhyphen"/>vour by all lawfull meanes to continue them under a law ſtill.</p>
+            <p>Thirdly, <hi>Becauſe that which gives the offence therein is not matter of faith and ſalvation, But diſcipline, and the Cere<g ref="char:EOLhyphen"/>monies of the Church.</hi>
+            </p>
+            <p>It is not to be denyed, that authority hath power to order and ſettle Diſcipline and Government, as well in Eccleſiaſticall as Civill affairs, being not contrary to the written word of God; which once being ſetled, that which was formerly indifferent in its own nature, cea<g ref="char:EOLhyphen"/>ſeth now to be indifferent to us as ſubjects being under that ſetled law; and truly methinks if there were no o<g ref="char:EOLhyphen"/>ther argument but this, it were ſufficient ground for a good Chriſtian ſubject to conforme himſelfe unto them. Againe, nor mans conſcience ought to be troubled at that which is contained in the ſacred Scriptures the expreſſe word of God, or evidently grounded thereon, But rather for the not performance of the ſame.</p>
+            <p>Why then do we charge and burthen our conſciences with thoſe things which are not impoſed upon us by the command of God? why do we ſtumble at ſtraws, and leape over blocks? Tithe Mint and Comin, and let the greater works of the Law undone? ſhall we a<g ref="char:EOLhyphen"/>gree
+<pb n="4" facs="tcp:111864:5"/>in the ſubstance, and in the greater, in matters of faith and ſalvation, and ſhall we contend for ſhadows, and diſagree in the leſſer, in things indifferent in their own nature, and neglect things lawfully commanded by Authority? God forbid. The reaſon why ſome ſchiſ<g ref="char:EOLhyphen"/>maticall and ſeditious profeſſors are taken notice of to be ſo guilty of not walking according to the commande<g ref="char:EOLhyphen"/>ments of God, the doctrine and rules of our Religion, is, becauſe they ſo much overbuſie themſelves in oppo<g ref="char:EOLhyphen"/>ſing the lawfull diſcipline &amp; ceremonies of the Church, and (thereby thinking to give ſatiſfaction to themſelves and their erronious conſciences) in the meane time neg<g ref="char:EOLhyphen"/>lect the honour and dutie to their Governours, their charity and love to their neighbours, which are the ex<g ref="char:EOLhyphen"/>preſſe command of God in his word.</p>
+            <p>Fourthly, <hi>Because they have endured oppoſition, &amp; the greateſt number of the oppoſers have been either weake and ignorant Chriſtians, miſled and miſinformed, or perverſe, ſeditious, and inconformable to the eſtabliſhed government.</hi>
+            </p>
+            <p>That there are many weake Chriſtians (though honeſtly affected to the true Religion) and that there is in the nature of man a perverſe and froward diſpoſition, and a ſpirit of contradiction in ſome, none that truly knowes religion, the nature of man, and the times, will denie. <hi>Solomon</hi> goes further, and tells us that
+<pb n="5" facs="tcp:111864:5"/>there is a generation that are pure in their own conceit, and yet they are not waſhed from their ſilthineſſe, ſo that then, there may be divers and ſeverall ends in op<g ref="char:EOLhyphen"/>poſition, ſome may only ſeem to oppoſe by way of trial, &amp; inquiry to the end that the truth may be manifeſted.</p>
+            <p>Some may oppoſe out of ſimplicitie and ignorance.</p>
+            <p>Some out of an intemperate and indiſcreete Zeal.</p>
+            <p>Some may have ſiniſter ends and by reſpects in their oppoſing.</p>
+            <p>Some oppoſe them in envie and malice to the truth and our happineſſe therein. But although God only ſeeth and knoweth every mans heart and end in oppo<g ref="char:EOLhyphen"/>ſing, and ponders all their doings, yet it is not unknown but well obſerved, That ſome endeavouring to ſhake off government, and to free themſelves from their due obedience (out of pride or ambition, or out of a blinde and intemperat Zeal, or from the effect of them both) when they have beene lawfully checked by the reines of Authority, they have endeavoured and have ſowne the Tares of Sedition and diviſion in the Church and common-wealth; and further, ſuch is the extraordinary perverſe and arrogant diſpoſition, and ſelf conceitednes of ſome tranſported humours, that rather then they will acknowledg their errours though never ſo apparent, the very ſtate and law it ſelfe muſt be condemned and con<g ref="char:EOLhyphen"/>diſcend to their diſtempers.</p>
+            <pb n="6" facs="tcp:111864:6"/>
+            <p>I will not therefore condemne any thing, meerely becauſe it is oppoſed; Becauſe that the moſt ſacred Scrip<g ref="char:EOLhyphen"/>tures, the word of God, and our true reformed Prote<g ref="char:EOLhyphen"/>ſtant Religion, hath received no ſmall oppoſition from time to time; and that good and godly Governours and Chriſtians have not wanted oppoſition and p<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſecuti<g ref="char:EOLhyphen"/>on too, even when they have beſt deſerved, and the beſt men and beſt things have beene and are ſtill ſubject to calumnie and miſinterpretation. And it were to bee wiſhed that it were not obſerved in theſe dayes, that thoſe that were and are accounted and known to be re<g ref="char:EOLhyphen"/>ligious and zealous Proteſtants, conſtant in the mainte<g ref="char:EOLhyphen"/>nance of the truth, and of their reverentiall feare of God, and that make conſcience alſo of their duties as Chriſti<g ref="char:EOLhyphen"/>ans, to declare their affections to truth and peace, and to performe their duties of a subject to their Prince and wholſome Laws, that theſe which deſerve commen<g ref="char:EOLhyphen"/>dation and imitation, had not ſo much oppoſition and ſuch uncharitable cenſures, of being only formall, car<g ref="char:EOLhyphen"/>nall, and morall Chriſtians, and ſometimes worſe de<g ref="char:EOLhyphen"/>tractions too frequent in mens mouthes and writings, Moreover, That which the Apoſtle calls pure Religi<g ref="char:EOLhyphen"/>on and undefiled before God, and that which is the Triall of a good Chriſtian and Subject, ſome ſlande<g ref="char:EOLhyphen"/>rouſly and cenſoriously oppoſe, and judg Phariſaicall &amp; formall, &amp;c. It is true (as they ſay) that it is poſſible for a morall honeſt man to go to Hell; But it is moſt cer<g ref="char:EOLhyphen"/>tain
+<pb n="7" facs="tcp:111864:6"/>that none ſhall goe to Heaven, unleſſe they have righteouſneſſe joyned to their holineſſe; hee that makes not conſcience of performing the duties of the ſecond Table, there is juſt cauſe to ſuſpect his ſyncerity in the performance of the firſt. The Apoſtle ſaith in the fifth of the <hi>Galathians, That all the Law is fulfilled even in one word; Thou ſhalt love thy Neighbour as thy ſelfe,</hi> and this is that ſecond great Commandement that Saint <hi>Matthew</hi> ſpeaketh of, which is the tryall of the firſt, according to that Aſſertion of Saint <hi>Iohn, He that loveth not his bro<g ref="char:EOLhyphen"/>ther whom hee hath ſeene, how can hee love God whom hee hath not ſeene:</hi> Againe, <hi>without faith it is impoſsible to pleaſe God:</hi> now the main tryall of true faith is by the lively operation and expreſſion of it in good works, <hi>ſhew mee thy faith by thy works,</hi> ſaith the Apoſtle. For <hi>as the bodie without the ſpirit is dead, ſo faith without good works is dead, Iames</hi> 2.26. and none ſhal ever be ſaved by a dead faith, <hi>Iam.</hi> 2.14.17. It were happy therefore if we would ſee or ſuſpect the policy of the Devil or his agents, who envy our happineſſe, and take advantage either of our judgements depraved, or natures corrupted, to make us their inſtruments to breake our bleſſed unity and peace in Church and Common-wealth, and ſo while we are ſtriving and contending for ſhadows, we may be depri<g ref="char:EOLhyphen"/>ved of the ſubſtance, and brought into irrecoverable confuſion.</p>
+            <pb n="6" facs="tcp:111864:7"/>
+            <p>Fiftly, <hi>Becauſe the oppoſitions have been divers times fully an<g ref="char:EOLhyphen"/>ſwered by learned and Religious Proteſtants, but eſpecially ſo fullie determined in a conference on mature deliberation by our late renowned King</hi> Iames <hi>of bleſſed memorie.</hi>
+            </p>
+            <p>This manifeſtly appeares by a Proclamation, for the uniformity of Common Prayer, and the decent ſervice of God, dated the fifth of <hi>March,</hi> in the firſt yeere of K. <hi>James,</hi> and is prefixed before the Booke of Common-Prayer, part whereof I will mention, the reſt (wherein you may receive further ſatisfaction) I refer you unto to peruſe at your pleaſure. The words are theſe.</p>
+            <p>
+               <hi>In the month of</hi> October <hi>laſt we gave intimation of a confe<g ref="char:EOLhyphen"/>rence intended to be had with as much ſpeede as convenientlie could be, for the ordering of the Church, which accordingly fol<g ref="char:EOLhyphen"/>lowed in the month of</hi> Ianuary <hi>last at our Honour of</hi> H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mp<g ref="char:EOLhyphen"/>ton <hi>Court, where before our ſelfe and our privie Councell, were aſſembled many of the grave Biſhops, and Prelats of the Realme, and many other learned men, as well of thoſe that are conformable to the ſtate of the Church eſtabliſhed, as of thoſe that diſſented, among whom what our paines were, what our patience in hearing and replying, and what the indifferencie &amp; uprightneſſe of our judgment, wee leave to the report of thoſe who heard the ſame, contenting our ſelfe with the ſynceritie of our owne heart therein. But wee cannot conceale that the ſucceſse of that conference was ſuch as happens to many other things, which moving great expectation before they be entred
+<pb n="11" facs="tcp:111864:7"/>into, in their iſſue produce ſmall effects. For wee found mightie and vehement informations, ſupported with ſo weak and ſlender proofs, as it appeared to us and our Councell, that there was no cauſe why any change ſhould have been at all in that which was moſt impugned, the Book of Com<g ref="char:EOLhyphen"/>mon-praier, containing the forme of the publike ſervice of God here eſtabliſhed, neither in the Doctrine which appea<g ref="char:EOLhyphen"/>red to be ſyncere, nor in the formes and rites which were ju<g ref="char:EOLhyphen"/>ſtified out of the practice of the Primitive Church; not<g ref="char:EOLhyphen"/>withſtanding, &amp;c.</hi> And concludes in theſe words, <hi>And laſt of all wee doe admoniſh all men, that hereafter they ſhall not expect nor attempt any farther alteration in the common and publike forme of GODS ſervice from this which is now eſtabliſhed, For that neither will we give way to any to preſume, that our owne judgment ha<g ref="char:EOLhyphen"/>ving determined in a matter of this weight, ſhall be ſwayed to alteration by the frivolous ſuggeſtions of any light ſpirit; neither are we ignorant of the inconveniences that doe ariſe in government by admitting innovation in things once ſetled by mature deliberation; and how neceſſarie it is to uſe con<g ref="char:EOLhyphen"/>ſtancie in upholding the publike determinations of ſtates; for that ſuch is the unquietneſſe and unſtedfaſtneſse of ſome diſpoſitions, affecting everie yeere new formes of things, as if they ſhould be followed in their inconſtancie would make all actions of ſtate ridiculous and contemptible, whereas the ſtedfaſt maintaining of things by good advice eſtabliſhed is the weale of all Common-wealths.</hi>
+            </p>
+            <pb n="10" facs="tcp:111864:8"/>
+            <p>In the Preface of the Booke of Common-prayer printed 1627, it is declared that all uncertaine Cere<g ref="char:EOLhyphen"/>monies were left out, and nothing ordained to bee read, but the very pure Word of GOD the holy Scriptures, or that which is evidently grounded upon the ſame.</p>
+            <p>In the Declaration of Ceremonies why ſome be aboliſhed and ſome retained, it is manifeſted, that without ſome Ceremonies it is not poſſible to keep any order or quiet Diſcipline in the Church, and though ſome were thought worthy to bee cut off and cleane rejected, others there be which though they have beene deviſed by man, yet it is thought good to reſerve them ſtill, as well for a decent order in the Church, for which they were firſt deviſed, as becauſe they appertain to edification, whereunto all things done in the Church, as the Apoſtle teacheth, ought to be referred; and although the keeping or omitting of a Ceremonie in it ſelfe conſidered is but a ſmall thing, yet the wilfull and contemptuous tranſ<g ref="char:EOLhyphen"/>greſsion and breaking of a common Order and Di<g ref="char:EOLhyphen"/>ſcipline is no ſmall offence before God, <hi>Let all things be done among you,</hi> ſaith Saint <hi>Paul, in a ſeemly and due order,</hi> the appointment of which order appertaines not to private men, therefore no man ought to take in hand, or preſume to appoint, or alter any publike
+<pb n="11" facs="tcp:111864:8"/>or common order in Chriſts Church, except hee be lawfully called and authorized thereunto, &amp;c. as therein more at large appeares.</p>
+            <p>Hee that deſires ſatisfaction of the particular an<g ref="char:EOLhyphen"/>ſwers to the ſeverall objections againſt the Booke of Common-prayer, &amp;c. may read and receive it in that learned Work of Maſter <hi>Hookers</hi> Eccleſiaſticall Po<g ref="char:EOLhyphen"/>litic, and in Maſter <hi>Robert Abbot</hi> his Tryall of our Church-forſakers, and in many other.</p>
+            <p>In the mean-time they may informe their judge<g ref="char:EOLhyphen"/>ments, and allay their raſh and ſcandalous Cenſures by the peruſall of theſe following places of Scrip<g ref="char:EOLhyphen"/>ture, <hi>Numb.</hi> 6.23, 24, 25, 26. <hi>Davids</hi> ſet formes of Pſalmes for ſeverall ſpeciall occaſions, <hi>Ioel.</hi> 2.7. <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> 6.9. <hi>Luke</hi> 11.2. <hi>Eccleſiaſt.</hi> 5.2.</p>
+            <p>Sixtly and laſtly, <hi>Becauſe they are and have beene ſo Common-prayers amongſt us.</hi>
+            </p>
+            <p>Thanks be unto God, the time is not now as it hath bin with our Forefathers in this Kingdome, and with other Chriſtians at this day in ſeverall pla<g ref="char:EOLhyphen"/>ces of the World; Wee need not hide our ſelves in Dens, and frequent the Caverns of the Earth, to ſerve the true God in. The Bible which was ſhut up in an unknowne tongue from the Generality is now become common in our owne mother tongue
+<pb n="10" facs="tcp:111864:9"/>and language of the Kingdome, and we all have not only liberty by Proclamation to enjoy it, but wee have ſeverall eſtabliſhed Acts of Parliament, to con<g ref="char:EOLhyphen"/>firme our common uſe of it, our Religion, and our Book of Common-prayer alſo, and therefore God grant that that which is ſo great a mercy and happi<g ref="char:EOLhyphen"/>neſſe unto us, we make it not our miſery, by turning the cauſe of our thankſgiving into murmuring and repining, depraving, and contemning of that and thoſe who legally and conſcionably affect and fre<g ref="char:EOLhyphen"/>quent them. There was a time when the children of <hi>Iſrael</hi> ſurfeited of their Manna; I pray God that our loathing of the Hony-combe doth not argue too full a ſtomack in us. Doe wee not thinke that by our contemning of them, and by our ingratitude for the free and peaceable enjoyment of them? we do not provoke God to deprive us of them? yes ſurely we doe; when plenty makes us wanton and ingratefull, ſcarcity is not far off. Thus God deals with us in the abuſe of our healths, our eſtates, our peace, and li<g ref="char:EOLhyphen"/>berty, and he deals not ſo with us only in temporall Bleſsings, but in ſpirituall alſo. Wee accompt our ſelves (as all other Nations eſteem us) happy in our good and Common Laws, we enjoy our Common prayers, not only by Common Law, but by a Title of Common alſo, ſo that now they are truly become
+<pb n="13" facs="tcp:111864:9"/>ours in Common, and they are our common good, our cuſtome and freehold; in the publike good and welfare whereof, and of our Proteſtant Religion, every ſubject in <hi>England</hi> hath an intereſt and proprie<g ref="char:EOLhyphen"/>ty. They have been our common orders for the due and decent worſhip of God, and God is the God of Order and Vnitie; they have beene our premedi<g ref="char:EOLhyphen"/>tated and authorized formes of Diſcipline in our ſpi<g ref="char:EOLhyphen"/>rituall warfare, in fighting against the Fleſh, the World, and that great and ſubtle Commander of the Aire the Devill; the potent adverſaries of Mankind, who have aſſuredly received many a deadly wound by theſe ancient and approved and experienced Bat<g ref="char:EOLhyphen"/>taliaes, and ſhall wee now breake ranks and order, when our victory goes on ſo proſperouſly, and our warfare ſo nigh to an end, and ſo hazard an inrode, and rowting, and a confuſion amongſt us? God forbid.</p>
+            <p>To conclude, it were to be heartily wiſhed, that in matters that truly concerne ſo much the glory of God, the honour, peace, and welfare, of the Church and Common weale, that all ſingle ſiniſter and pre<g ref="char:EOLhyphen"/>judicate opinions might be laid aſide (much leſſe ſo ſcandalouſly publiſhed) and that in contending for the truth we do not forget our dutie, and the unity that ought to be amongſt Proteſtants: For it<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> moſt
+<pb n="14" facs="tcp:111864:10"/>certain there can be no true contending for the truth, but that which is accompanied with ſincerity, hu<g ref="char:EOLhyphen"/>mility, and charity, that ſo the goodneſſe of our cauſe may be manifeſted in our religious and Chriſtian demeanours therein.</p>
+            <p>And for as much as the Book of Common Prayers hath been ſo religiouſlie begun, intended, and uſed by our forefathers, to the glory, and due, and de<g ref="char:EOLhyphen"/>cent Service of God, and hath at ſeverall times been eſtabliſhed as Lawes in this Land in times of Religi<g ref="char:EOLhyphen"/>ous Princes, and reforming Magiſtrates, and hath been often maintained againſt all oppoſitions, and ſo maturely determined, and ſo long peaceably and proſperouſly enjoyed, devoutly frequented, and hath beene ſo common and neceſſary for us, let us be thankfull to God, and our Governours, for the free and common uſe and continuance of them, and ac<g ref="char:EOLhyphen"/>cording to that prudent and religious advice of au<g ref="char:EOLhyphen"/>thority, let us quietly attend the reformation inten<g ref="char:EOLhyphen"/>ded, without any tumultuous diſturbance of the worſhip of God, and peace of the Kingdome.</p>
+            <p>In the meane time, and ever, let us remember the Apoſtles counſell <hi>to pray for all thoſe that are in Autho<g ref="char:EOLhyphen"/>rity, that we may live a godly life under them with all peace and quietneſſe,</hi> to which my heart and tongue, and all true hearted proteſtants will ever ſay, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111864:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
